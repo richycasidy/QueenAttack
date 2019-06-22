@@ -3,7 +3,7 @@
 Given the position of two queens on a chess board, indicate whether or not they are positioned so that they can attack each other. In the game of chess, a queen can attack pieces which are on the same row, column, or diagonal. 
 
 
-#Task 
+# Task 
 
 ● A chessboard can be represented by an 8 by 8 array. 
 
@@ -17,7 +17,7 @@ Given the position of two queens on a chess board, indicate whether or not they 
 
 
  
-#UI Design 
+# UI Design 
 
 ● Be creative with your design based off the instructions above. 
  
